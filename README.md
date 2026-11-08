@@ -14,15 +14,6 @@ Aplicación de escritorio para Windows para la gestión de cotizaciones de compo
 - **Gestión de usuarios:** administrar usuarios y roles dentro del sistema.
 - **Reportes:** generar reportes en formato Excel.
 
-## Descargar
-
-Descarga el instalador más reciente desde **[Releases](https://github.com/danieljordan1900-org/manumaxvue-releases/releases/latest)**:
-
-- `manumaxvue-X.Y.Z-x64-setup.exe`: instalador recomendado
-- `manumaxvue-X.Y.Z-x64.msi`: instalador MSI
-
-Una vez instalada, la app avisa sola cuando hay una versión nueva y se actualiza desde dentro.
-
 ## Tecnologías utilizadas
 
 - **Frontend:** [Vue.js](https://vuejs.org/) 3
